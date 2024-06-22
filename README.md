@@ -7,6 +7,7 @@ MultiplicationTableGame is a fun and educational game developed for children to 
 -  **Variety of Questions:** Choose from different multiplication tables and question counts (5, 10, 20, or all).
 -  **Fun Animations:** Enjoy confetti animations for correct answers.
 -  **User-friendly Interface:** Simple and intuitive UI makes it easy for children to navigate and play.
+-  **Animal Images:** Includes delightful animal images sourced from the [Kenney.nl Animal Pack Redux](https://kenney.nl/assets/animal-pack-redux).
 
 ## Installation
 
@@ -111,4 +112,6 @@ struct ConfettiAnimationView: View {
 2. **Select Number of Questions**: Choose how many questions you want to answer.
 3. **Start the Game**: Click "Start Game" and begin answering questions!
 
-Enjoy learning and practicing multiplication tables with an interactive and fun application!
+## Credits
+
+Animal images are sourced from the [Kenney.nl Animal Pack Redux](https://kenney.nl/assets/animal-pack-redux).
